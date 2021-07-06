@@ -15,7 +15,7 @@ body{
 }
 .main-title{
     font-size: 50px;
-    font-weight: 900;
+    font-weight: 800;
     color: #575757;
 }
 .para{
@@ -51,8 +51,7 @@ body{
     padding-top: 70px;
 }
 .about-titel{
-    font-size: 30px;
-    font-weight: 900;
+    font-size: 35px;
     color: #575757;
 }
 #about-para{
@@ -68,8 +67,6 @@ body{
 .service-title{
     margin-top: 0;
     font-size: 30px;
-    font-weight: 900;
-    font-family: 'Poppins';
 }
 .our-recipe{
     display: flex;
@@ -91,7 +88,6 @@ body{
 }
 .recipe-title{
     font-size: 20px;
-    font-weight: 900;
 }
 .social-media{
     margin-top: 80px;
@@ -113,7 +109,7 @@ body{
 }
 .card-title{
     font-size: 35px;
-    font-weight: 900;
+    font-weight: 800;
     margin-bottom: 0;
     text-align: center;
 }
